@@ -1,12 +1,12 @@
 {
-    "ancho de impresion": 80,
-    "ancho de tabulacion": 2,
-    "useTabs": "falso" ,
-    "semi": "cierto",
-    "comilla unica" : "cierto",
-    "trailingComma": "todos",
-    "espaciado entre corchetes": "verdadero",
-    "jsxBracketSameLine": "falso",
-    "arrowParens": "evitar",
-    "proseWrap": "siempre"
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false ,
+    "semi": true,
+    "singlequote" : true ,
+    "trailingComma": "all",
+    "backetSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid",
+    "proseWrap": "always"
 }

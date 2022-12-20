@@ -1,0 +1,12 @@
+{
+    "ancho de impresion": 80,
+    "ancho de tabulacion": 2,
+    "useTabs": "falso" ,
+    "semi": "cierto",
+    "comilla unica" : "cierto",
+    "trailingComma": "todos",
+    "espaciado entre corchetes": "verdadero",
+    "jsxBracketSameLine": "falso",
+    "arrowParens": "evitar",
+    "proseWrap": "siempre"
+}
